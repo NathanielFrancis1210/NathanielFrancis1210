@@ -16,5 +16,5 @@ Help-Desk-User-Management-Lab]
 
 
 
-[linkedin]: https://linkedin.com/in/nathaniel-francis-ba4b55172/
+
 
