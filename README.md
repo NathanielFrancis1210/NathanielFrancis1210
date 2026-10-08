@@ -9,10 +9,7 @@ Help-Desk-User-Management-Lab]
 
 [Help-Desk-Password-Reset-Lab]
 (https://github.com/NathanielFrancis1210/Help-Desk-Password-Reset-Lab) - Managed account credential overrides and bypass locks using `net user`.
-<h2>🤳Cconnect with me:</h2>
 
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
