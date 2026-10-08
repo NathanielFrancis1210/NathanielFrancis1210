@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathaniel Francis, an <a href="https://linkedin.com/in/nathaniel-francis-ba4b55172/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Nathaniel Francis <h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 [Help-Desk-Network-Diagnostics-Lab]
